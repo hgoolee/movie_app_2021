@@ -8,6 +8,12 @@
 - npm i axios
 - npm i react-router-dom
 
+## Setup VCS & Github
+- git config user.email "61733014+hgoolee@users.noreply.github.com"
+- git config user.name "hgoolee"
+- git remote add origin https://github.com/hgoolee/movie_app_2021.git
+- git push -u origin master
+
 ## Deploy to github.io
 - npm i gh-pages
 - Make changes to `package.json` file
