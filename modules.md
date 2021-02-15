@@ -1,4 +1,5 @@
 ## Start
+- npm i -g npx
 - npx create-react-app movie_app_2021
 - cd movie_app_2021
 - npm start
